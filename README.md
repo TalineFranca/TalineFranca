@@ -33,7 +33,7 @@ Oie!! Me chamo Taline Rodrigues, tenho 19 anos e sou completamente apaixonada po
 <img 
     align="left" 
     alt="Node.js" 
-    title="Next.js"
+    title="Node.js"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
