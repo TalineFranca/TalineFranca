@@ -10,7 +10,7 @@ Oie!! Me chamo Taline Rodrigues, tenho 19 anos e sou completamente apaixonada po
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -18,7 +18,7 @@ Oie!! Me chamo Taline Rodrigues, tenho 19 anos e sou completamente apaixonada po
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
@@ -26,7 +26,7 @@ Oie!! Me chamo Taline Rodrigues, tenho 19 anos e sou completamente apaixonada po
     align="left" 
     alt="React"
     title="React" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -34,7 +34,7 @@ Oie!! Me chamo Taline Rodrigues, tenho 19 anos e sou completamente apaixonada po
     align="left" 
     alt="Node.js" 
     title="Next.js"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
 />
@@ -42,7 +42,7 @@ Oie!! Me chamo Taline Rodrigues, tenho 19 anos e sou completamente apaixonada po
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -50,7 +50,7 @@ Oie!! Me chamo Taline Rodrigues, tenho 19 anos e sou completamente apaixonada po
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -58,15 +58,15 @@ Oie!! Me chamo Taline Rodrigues, tenho 19 anos e sou completamente apaixonada po
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
-    align="left" 
+    align="left"
     alt="MongoDB" 
     title="MongoDB"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
 />
@@ -74,7 +74,7 @@ Oie!! Me chamo Taline Rodrigues, tenho 19 anos e sou completamente apaixonada po
     align="left" 
     alt="Kotlin" 
     title="Kotlin"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
