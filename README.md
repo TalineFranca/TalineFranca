@@ -24,14 +24,6 @@ Oie!! Me chamo Taline Rodrigues, tenho 19 anos e sou completamente apaixonada po
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Node.js" 
     title="Node.js"
     width="40px" 
